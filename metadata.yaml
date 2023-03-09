@@ -1,0 +1,39 @@
+_repo: The-turner-s-companion-b-containing-instructions-in-concentric-elliptic-and-eccentric-turning__70100
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Anonymous
+    aliases:
+    - Anonyme
+    - Anonymous, Anonymous
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Anonymous_work
+    - http://www.gutenberg.org/ebooks/author/49
+description: 'First published London, 1842, under title: The handbook of turning.'
+gutenberg_issued: '2023-02-21'
+identifiers:
+  gutenberg: '70100'
+  lccn: 08032158
+language: en
+pgterms:marc904: https://archive.org/details/turnerscompanion01phil
+pgterms:marc905: 20211124075157anon
+pgterms:marc906: '1868'
+pgterms:marc907: US
+production_note: Bob Taylor, deaurider and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive)
+publication_note: '  $aUnited States :$bHenry Carey Baird, $c1868.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Turning (Lathe work)'
+- !lcc 'TT'
+- GITenberg
+title: "The turner's companion\r\n$b containing instructions in concentric, elliptic,\
+  \ and eccentric turning; also various plates of chucks, tools and instruments: and\
+  \ directions for using the eccentric cutter, drill, vertical cutter, and circular\
+  \ rest; with patterns, and instructions for working them."
+url: http://www.gutenberg.org/ebooks/70100
